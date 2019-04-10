@@ -1,0 +1,2 @@
+﻿  inicio.cpp
+c:\users\gusd2\source\repos\aeoiitrainer\aeoiitrainer\inicio.cpp(21): fatal error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "stdafx.h"' à sua fonte?
